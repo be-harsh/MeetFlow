@@ -1,0 +1,32 @@
+Team Meeting - May 25, 2026
+
+Attendees:
+- Alice (Project Manager)
+- Bob (Developer)
+- Charlie (Designer)
+- Dave (QA Lead)
+
+Agenda:
+1. Project status update
+2. UI/UX improvements
+3. Next steps
+
+Discussion:
+
+Alice: Good morning everyone! Let's start with the project status.
+Bob: I've completed the backend API development. The endpoints are ready for testing.
+Charlie: I've finished the mockups for the new dashboard design. I'll share them after the meeting.
+Dave: QA testing will start on Monday. I need to coordinate with Bob.
+Alice: Great! Let's move on to UI improvements.
+Charlie: The new design features a cleaner interface with better navigation.
+Alice: Perfect. Now for next steps:
+- Bob: Deploy API to staging by Friday
+- Charlie: Share final design files by end of week
+- Dave: Prepare test cases by Monday
+
+Decision: We'll deploy to staging this Friday.
+
+Action Items:
+1. Bob: Deploy API to staging
+2. Charlie: Share design files
+3. Dave: Prepare test cases
